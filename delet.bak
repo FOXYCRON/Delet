@@ -1,4 +1,4 @@
-/* Programa que piude datos por pantalla y los despliega posteriormente */
+/* Programa que pide datos por pantalla y los despliega posteriormente */
 #include<stdio.h>
 #include<conio.h>
 
